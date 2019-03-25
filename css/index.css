@@ -1,0 +1,196 @@
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#page {
+    background: rgba(211, 150, 150, 0) url(http://5c0f98f27cdf7.t73.qifeiye.com/qfy-content/uploads/2018/12/b983b189e09213ae82821bee457d23a7.jpg) repeat center top;
+    background-size: auto;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+/* 头部开始 */
+#header {
+    border-bottom: 1px solid transparent;
+    position: relative;
+}
+.wf-wrap{
+    padding: 0 40px;
+    margin: 0 auto;
+}
+.wf-table{
+    max-width: 1190px!important;
+    min-height: 120px;
+    height: 120px;
+    margin: 0 auto;
+    display: table;
+    width: 100%;
+}
+.branding{
+    width: 149px;
+    height: 120px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.bitem{
+    top: 0px;
+    left: 0px;
+    max-height: 50px;
+}
+.bitem .logospan{
+    display: inline-block;
+}
+.logospan img{
+    max-height: 50px;
+    width: auto;
+}
+.navs{
+    width: 778px;
+    height: 120px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.main-nav{
+    text-align: right!important;
+    font-size: 15px;
+}
+.main-nav .menu-item{
+    display: inline-block;
+    position: relative;
+    z-index: auto;
+    vertical-align: middle;
+    width: 104px;
+    text-align: center;
+    margin: 0 3px;
+}
+.menu-item a{
+    color: #4c4c4c;
+    font: normal normal 15px / 23px sans-serif;
+}
+.menu-item span{
+    height: 60px;
+    display: inline-block;
+    text-align: center;
+}
+.block{
+    margin-top: 12px;
+    font-size: 13px;
+}
+.main-nav .item {
+    background-color: #a0ce4e;
+}
+.main-nav .item a{
+    color: #fff;
+}
+.menu-item:hover a{
+    color: #fff;
+}
+.menu-item:hover{
+    background-color: #a0ce4e;
+}
+.info{
+    width: 263px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.top-bar{
+    padding-bottom: 2px;
+    padding-top: 1px;
+    width: 263px;
+}
+.deng{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+    display: inline-block;
+    text-align: right;
+}
+/* 头部结束 */
+/* 内容开始 */
+.main{
+    min-height: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.row{
+    padding: 0 40px;
+}
+.row-con{
+    width: 100%;
+}
+.ag_image{
+    margin: 0 auto;
+    width: 895px;
+    height: 850px;
+}
+.ag_image img{
+    width: 100%;
+    height: 100%;
+}
+.row-con1{
+    width: 1200px;
+    height: 516px;
+    background: #fff;
+    
+}
+.column{
+    width: 60%;
+    padding: 16px 15px;
+    padding-right: 0;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.column img{
+    width: 100%;
+    height: 100%;
+}
+.qfe_wrapper{
+    display: inline-block;
+    position: relative;
+    max-width: 100%;
+}
+.header_title{
+    font-size: 26px;
+    font-weight: normal;
+    font-style: normal;
+    color: #333333;
+    padding: 0 0 6px 0;
+    display: block;
+    padding: 0 0 6px 0;
+    vertical-align: bottom;
+}
+.header_subtitle{
+    font-family: century gothic;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    color: #aaaaaa;
+    display: block;
+    vertical-align: bottom;
+}
+.mid{
+    position: relative;
+    line-height: 1.5em;
+    background-position: left top;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 30px;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0px;
+}
+/* 内容结束 */
+
