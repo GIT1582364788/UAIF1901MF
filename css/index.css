@@ -1,31 +1,10 @@
-*{
-    margin:0;
-    padding: 0;
-    list-style: none;
-}
-a{
-    text-decoration: none;
-}
-#page {
-    background: rgba(211, 150, 150, 0) url(http://5c0f98f27cdf7.t73.qifeiye.com/qfy-content/uploads/2018/12/b983b189e09213ae82821bee457d23a7.jpg) repeat center top;
-    background-size: auto;
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-}
-body{
-    font-size: 14px;
-    font-family: "微软雅黑",Helvetica,Arial,Verdana,sans-serif;
-    font-style: normal;
-    font-weight: normal;
-}
 /* 头部开始 */
 #header {
     border-bottom: 1px solid transparent;
     position: relative;
 }
 .wf-wrap{
-    padding: 0 40px;
+    width: 1190px;
     margin: 0 auto;
 }
 .wf-table{
@@ -123,7 +102,7 @@ body{
 /* 内容开始 */
 /* 第一部分 */
 .container{
-    width: 1280px;
+    width: 1260px;
     margin: 0 auto;
 }
 .container2{
@@ -242,7 +221,7 @@ body{
     color: #828282;
     float: left;
 }
-.header{
+.headers{
     font-family: 微软雅黑;
     font-size: 16px;
     font-weight: normal;
@@ -293,7 +272,7 @@ body{
     color: #373a41;
 }
 .body-innder-item{
-    width: 275px;
+    width: 270px;
     margin-bottom: 20px;
     padding-bottom: 20px;
     padding: 20px;
@@ -334,10 +313,10 @@ body{
     text-align: center;
 }
 .flower{
+    width: 1280px;
     height: 120px;
     margin-top: -60px;
     text-align: center;
-    padding: 0 40px;
 }
 .flower img{
     height: 100%;

@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#page {
+    background: rgba(211, 150, 150, 0) url(http://5c0f98f27cdf7.t73.qifeiye.com/qfy-content/uploads/2018/12/b983b189e09213ae82821bee457d23a7.jpg) repeat center top;
+    background-size: auto;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+body{
+    font-size: 14px;
+    font-family: "微软雅黑",Helvetica,Arial,Verdana,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
