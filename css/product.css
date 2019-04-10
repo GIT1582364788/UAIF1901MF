@@ -119,20 +119,22 @@
 }
 .ins{
     padding-left: 6px;
-    widows: 1190px;
+    margin-left: 30px;
 }
 .items{
     margin-bottom: 10px;
 }
 .bottom-enter-left{
     line-height: 45px;
-    padding: 12px 60px;
-    background-color: #76ad2c;
+    padding: 12px 40px;
+    background-color: #88ba3d;
     color: #ffffff;
     border: 1px solid transparent;
     box-sizing: border-box;
     position: relative;
     margin-right:20px; 
+    font-size: 16px;
+    font-weight: 800;
 }
 .sub{
     display: inline-block;
@@ -142,6 +144,7 @@
     margin: 5px;
     padding: 6px 25px;
     border: 1px solid #88ba3d;
+    cursor: pointer;
 }
 .active{
     display: inline-block;

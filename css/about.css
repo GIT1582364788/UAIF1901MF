@@ -103,7 +103,7 @@ img{
     text-align: right;
 }
 /* 头部结束 */
-/* 身体开始 */
+/* 内容开始 */
 .big-box{
     width: 1190px;
     height: 2010px;
@@ -210,8 +210,7 @@ img{
     font-style:normal;
     color:#666666;
 }
-/* 身体结束 */
-
+/* 内容结束 */
 /* 底部 */
 .footer{
     margin: 0 auto;

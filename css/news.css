@@ -1,0 +1,280 @@
+/* 头部开始 */
+#header {
+    border-bottom: 1px solid transparent;
+    position: relative;
+}
+.wf-wrap{
+    width: 1190px;
+    margin: 0 auto;
+}
+.wf-table{
+    max-width: 1190px!important;
+    min-height: 120px;
+    height: 120px;
+    margin: 0 auto;
+    display: table;
+    width: 100%;
+}
+.branding{
+    width: 149px;
+    height: 120px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.bitem{
+    top: 0px;
+    left: 0px;
+    max-height: 50px;
+}
+.bitem .logospan{
+    display: inline-block;
+}
+.logospan img{
+    max-height: 50px;
+    width: auto;
+}
+.navs{
+    width: 778px;
+    height: 120px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.main-nav{
+    text-align: right!important;
+    font-size: 15px;
+}
+.main-nav .menu-item{
+    display: inline-block;
+    position: relative;
+    z-index: auto;
+    vertical-align: middle;
+    width: 104px;
+    text-align: center;
+    margin: 0 3px;
+    cursor: pointer;
+}
+.menu-item a{
+    color: #4c4c4c;
+    font: normal normal 15px / 23px sans-serif;
+}
+.menu-item span{
+    height: 60px;
+    display: inline-block;
+    text-align: center;
+}
+.block{
+    margin-top: 12px;
+    font-size: 13px;
+}
+.main-nav .item {
+    background-color: #a0ce4e;
+}
+.main-nav .item a{
+    color: #fff;
+}
+.menu-item:hover a{
+    color: #fff;
+}
+.menu-item:hover{
+    background-color: #a0ce4e;
+}
+.info{
+    width: 263px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.top-bar{
+    padding-bottom: 2px;
+    padding-top: 1px;
+    width: 263px;
+}
+.deng{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+    display: inline-block;
+    text-align: right;
+}
+/* 头部结束 */
+/* 内容上开始 */
+.container{
+    width: 1260px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.column_inner{
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+.inners{
+    padding-bottom: 30px;
+    text-align: center;
+}
+.warpper{
+    width: 298px;
+    margin: 0 auto;
+}
+.ins{
+    padding-left: 6px;
+    widows: 1190px;
+}
+.items{
+    margin-bottom: 10px;
+}
+
+/* 内容上结束 */
+/* 内容下开始 */
+.mid{
+    width: 100%;
+    display: table;
+    text-align: center;
+}
+.item{
+    display: inline-block;
+    margin-bottom: 0px;
+    text-align: center;
+    position: relative;
+    width: 130px;
+}
+.item-a{
+    cursor: pointer;
+    line-height: 14px;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-style: solid;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    background-color: #88ba3d;
+    color: #ffffff;
+    border: #88ba3d;
+    margin-right: 10px;
+    padding: 12px 10px 12px 10px;
+}
+.item-a:hover{
+    background-color: #70a028 !important;
+}
+/* 内容下开始 */
+.bao{
+    height: 2252px;
+    padding: 10px 10px 4px 10px;
+}
+.bao .items{
+    box-sizing: border-box;
+    margin-block-start: 1em;
+    padding-inline-start: 40px;
+    color: #666666;
+}
+.items-item{
+    height: 404px;
+    background-color: #fafafa;
+    max-width: 99.8%;
+    margin-bottom: 16px;
+    animation-delay: 0.1s;
+    animation-name: qfyfadeInLeft;
+    visibility: visible;
+    padding: 0 60px 0 0;
+}
+.post-thumb{
+    float: left;
+    overflow: hidden;
+    width: 280px;
+    padding-right: 80px;
+    vertical-align: top;
+}
+.blog-content{
+    vertical-align: top;
+    font-size: 14px;
+    color: #8d9095;
+    text-align: left;
+}
+.post-title{
+    padding-top: 13vh;
+    font-weight: normal;
+    color: #333333;
+    line-height: 26px;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+.pagenav{
+    
+    clear: both;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+/* 底部 */
+.footer{
+    margin: 0 auto;
+    padding: 0 40px;
+}
+.footer-box{
+    height: 230px;
+    padding-top: 60px;
+    color: #666666;
+}
+.dibu-left{
+    width: 882px;
+    padding-left: 5px;
+    padding-right: 5px;
+    float: left;
+}
+.m{
+    line-height: 1.5em;
+}
+.m2{
+    padding-top: 30px;
+}
+.m3{
+    padding-top: 20px;
+}
+.dibu-right{
+    padding-left: 5px;
+    padding-right: 5px;
+    float: left;
+}
+.dibu-right-top{
+    color: #000000;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.right-top{
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(224,224,224,1);
+}
+.tops{
+    padding-top: 15px;
+}
+.tops li{
+    display: inline-block;
+}
+.tops li .last{
+    margin-right: 30px;
+    background-image: url(http://fast.qifeiye.com/FeiEditor/images/icon/social_icon_24x24.png);
+    background-repeat: no-repeat;
+    height: 24px;
+    width: 24px;
+    display: inline-block;
+}
+.l{
+    background-position-y: -96px;
+    background-position-x: -48px;
+}
+.l2{
+    background-position-y: -96px;
+    background-position-x: 0px;
+}
+.l3{
+    background-position-x: -24px;
+    background-position-y: -96px;
+}
+.l4{
+    background-position-x: -96px;
+    background-position-y: -96px;
+}
